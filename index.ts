@@ -6,11 +6,10 @@ import {unixNow} from "./src/lib/utils";
 
 async function main() {
 
-  const wallet = Address.parse('UQDoYizC4DGKdJjQfdAgdiTvMy7MdxYeGFBWB2gP1HVI-oR1');
+  //TODO: change wallet address
+  const wallet = Address.parse('?????');
   const collection = Address.parse('EQDk8N7xM5D669LC2YACrseBJtDyFqwtSPCNhRWXU7kjEptX');
-  const endpoint = await getHttpEndpoint({
-    network: "testnet",
-  });
+  const endpoint = await getHttpEndpoint();
 
   const client = new TonClient({endpoint});
 

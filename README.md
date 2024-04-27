@@ -1,5 +1,3 @@
-- [Mainnet NFT collection](https://getgems.io/collection/EQDk8N7xM5D669LC2YACrseBJtDyFqwtSPCNhRWXU7kjEptX)
-
 # TON Onboarding Challenge Boilerplate
 
 Here you can become a true TVM Developer on the most advanced asynchronous blockchain in the world, The Open Network (TON). 
@@ -13,7 +11,7 @@ NFT Collection on GetGems with True TVM Developers:
 - [Mainnet NFT collection](https://getgems.io/collection/EQDk8N7xM5D669LC2YACrseBJtDyFqwtSPCNhRWXU7kjEptX)
 - [Testnet NFT collection](https://testnet.getgems.io/collection/EQDk8N7xM5D669LC2YACrseBJtDyFqwtSPCNhRWXU7kjEptX)
 
-## Step-by-step (simple)
+## Step-by-step (simple)    
 
 ### Video Tutorial
 
